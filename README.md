@@ -75,7 +75,7 @@ pizza-sales-analysis/
 ├── pizza_sales_analysis.ipynb
 ├── README.md
 └── requirements.txt
-```plaintext
+```
 
 ---
 
