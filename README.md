@@ -91,6 +91,7 @@ pizza-sales-analysis/
 2. Clone repo ini:
 ```bash
 git clone https://github.com/IqbalIbrahim112/pizza-sales-analysis.git
+```
 
 3. Buka notebook:
    Anda bisa membuka file **pizza_sales_analysis.ipynb** menggunakan:
